@@ -3,4 +3,4 @@
 Codes included:
 
 -   DS lab
--   DSCO lab
+-   DIS lab
